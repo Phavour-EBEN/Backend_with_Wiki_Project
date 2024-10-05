@@ -4,7 +4,7 @@
 // ○ Make at least three meaningful commits throughout the project. 
 // ○ Push the repository to GitHub and submit the link for review.
 
-Console.log("Hello world")
+console.log("Hello world")
 
 // function print_fun(){
 //     for(let i = 0;)
